@@ -1,2 +1,2 @@
 # Coursera_Capstone
-IBM Data Science Certification
+This repository is for IBM Data Science Project
